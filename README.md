@@ -9,6 +9,7 @@
 - The example scenario is a Technology Support Knowledge Base.
 
 **System Architecture**
+![Workflow](images/workflow.png)
 - The workflow is a staged pipeline:
 	- **Query Enhancer:** Reformulates using conversation history
 	- **Topic Validator:** Confirms the question is in-domain
